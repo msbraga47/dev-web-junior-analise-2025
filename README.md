@@ -63,20 +63,5 @@ Com base nas vagas e em estimativas do **Glassdoor**:
 ---
 
 ## 📂 Documentos de Suporte
-- Relatório Completo em PDF: [Relatório_Desenvolvedor_Web_Junior.pdf](Relatorio_Desenvolvedor_Web_Junior_com_graficos.pdf)
-
----
-
-## 🔗 Postagem no LinkedIn (Resumo)
-> "Qual o perfil do Desenvolvedor(a) Web Júnior em 2025?  
-> Nosso grupo analisou 10 vagas em São Paulo e compilou os dados.  
->  
-> **Hard Skills mais pedidas:** React.js, Node.js, SQL.  
-> **Soft Skill mais citada:** Comunicação.  
->  
-> Uma tendência clara é a exigência de conhecimentos em **Cloud** mesmo em vagas de entrada.  
->  
-> 👉 Relatório Completo: [link do PDF]  
->  
-> #DesenvolvimentoWeb #MercadoDeTI #CarreiraEmTecnologia #HardSkills #SoftSkills #AnaliseDeDados"
+- Relatório Completo em PDF: [Relatório_Desenvolvedor_Web_Junior.pdf](ANALISE_MERCADO_TI.pdf)
 
