@@ -63,5 +63,5 @@ Com base nas vagas e em estimativas do **Glassdoor**:
 ---
 
 ## 📂 Documentos de Suporte
-- Relatório Completo em PDF: [Relatório_Desenvolvedor_Web_Junior.pdf](ANALISE_MERCADO_TI.pdf)
+- Relatório Completo em PDF: [Relatório_Desenvolvedor_Web_Junior.pdf]([ANALISE_MERCADO_TI.pdf](https://github.com/msbraga47/dev-web-junior-analise-2025/blob/9455e4d880fbb671c56f4925d6d6779a1e38a6b5/AN%C3%81LISE%20MERCADO%20TI%20-%20FACUL.pdf)
 
